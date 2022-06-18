@@ -1,0 +1,10 @@
+{
+  "name": "ionic-conference-app",
+  "type": "angular",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  }
+}
